@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood;
+}
+body {
+    text-align: center;
+}
+hr {
+    border-color: black;
+}
+h1 {
+    color: beige;
+    text-align: center;
+}
+h2 {
+    color: whitesmoke;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+p {
+    padding-left: 10cm;
+}
+p {
+    padding-right: 10cm;
+}
